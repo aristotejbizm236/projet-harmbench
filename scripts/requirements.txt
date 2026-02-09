@@ -1,0 +1,7 @@
+openai          # Pour interagir avec ChatGPT
+anthropic       # Pour interagir avec Claude
+elasticsearch   # Pour envoyer les résultats vers votre pile ELK
+python-dotenv   # Pour gérer vos clés API de manière sécurisée
+requests        # Pour les appels HTTP standards
+
+#Sans ce fichier(requirement.txt), votre conteneur contiendrait Python, mais pas les moyens de communiquer avec les API de LLM, ce qui provoquerait des erreurs de type
