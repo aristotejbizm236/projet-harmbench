@@ -246,9 +246,9 @@ Results are saved to `results/harmbench_results_<timestamp>.json`.
 
 | Name | Role |
 |------|------|
-| Nyame Bouelle Henri Honoré Molina | Contributor |
-| Asseng Kemoum Reine Josépha | Contributor |
+| Nyame Bouelle Henri Honore Molina | Contributor |
 | Izamo Aristote | Contributor |
+| Asseng Kemoum Reine Josépha | Contributor |
 | Nouyang Nouyang Léopold Radeaubel | Contributor |
 | Sybel Donfack Démanou Melvis | Contributor |
 
@@ -259,4 +259,4 @@ Results are saved to `results/harmbench_results_<timestamp>.json`.
 
 ---
 
-*ECE Paris — Master in Artificial Intelligence — Hackathon 2026*
+*ECE Paris — Bachelor Informatique  — Hackathon 2026*
