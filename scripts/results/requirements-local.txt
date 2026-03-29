@@ -1,0 +1,15 @@
+# ============================================================
+# requirements-local.txt — modèles HuggingFace locaux
+# ============================================================
+# À utiliser UNIQUEMENT si vous souhaitez tester des modèles locaux
+# (Llama-3, Mistral-7B, opt-125m, etc.)
+#
+# Attention : ce fichier ajoute ~3-4 Go de téléchargement
+# et nécessite idéalement un GPU (sinon très lent sur CPU).
+#
+# Usage :
+#   pip install -r requirements.txt -r requirements-local.txt
+
+transformers>=4.40.0
+torch>=2.2.0
+accelerate>=0.29.0

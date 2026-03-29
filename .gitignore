@@ -1,0 +1,9 @@
+# Sécurité
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Données (optionnel, si tu ne veux pas saturer GitHub avec tes JSON)
+results/*.json
