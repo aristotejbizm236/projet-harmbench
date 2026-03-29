@@ -242,7 +242,7 @@ Results are saved to `results/harmbench_results_<timestamp>.json`.
 - Mazeika et al. (2024). *HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal.* arXiv:2402.04249
 - Zou et al. (2023). *Universal and Transferable Adversarial Attacks on Aligned Language Models.* arXiv:2307.15043
 
-### Project Team — ECE Paris, Master AI, Promotion 2026
+### Project Team — ECE Paris, Bachelor Informatique, Promotion 2026
 
 | Name | Role |
 |------|------|
